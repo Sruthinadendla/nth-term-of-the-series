@@ -1,0 +1,1 @@
+# nth-term-of-the-series
